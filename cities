@@ -1,0 +1,2468 @@
+[
+    {
+        "id": "65d20e299ad38f427680114d",
+        "city": "Santo Domingo",
+        "city_ascii": "Santo Domingo",
+        "country": {
+            "id": "65cfbe85781486b8898d9a3f",
+            "name": "Dominican Republic"
+        },
+        "iso2": "DO",
+        "capital": "primary",
+        "lat": 18.4764,
+        "lng": -69.8933,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b04eb8c8592514910f0d.webp"
+        },
+        "images": [
+            {
+                "id": "6786b052b8c8592514910f11",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b052b8c8592514910f10.webp"
+            },
+            {
+                "id": "6786b055b8c8592514910f14",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b054b8c8592514910f13.webp"
+            },
+            {
+                "id": "6786b056b8c8592514910f17",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b055b8c8592514910f16.webp"
+            },
+            {
+                "id": "6786b057b8c8592514910f1a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b056b8c8592514910f19.webp"
+            },
+            {
+                "id": "6786b058b8c8592514910f1d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b058b8c8592514910f1c.webp"
+            },
+            {
+                "id": "6786b05ab8c8592514910f20",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b059b8c8592514910f1f.webp"
+            },
+            {
+                "id": "6786b05bb8c8592514910f23",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b05bb8c8592514910f22.webp"
+            },
+            {
+                "id": "6786b05db8c8592514910f26",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b05cb8c8592514910f25.webp"
+            },
+            {
+                "id": "6786b05eb8c8592514910f29",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b05eb8c8592514910f28.webp"
+            },
+            {
+                "id": "6786b060b8c8592514910f2c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b060b8c8592514910f2b.webp"
+            },
+            {
+                "id": "6786b062b8c8592514910f2f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b061b8c8592514910f2e.webp"
+            },
+            {
+                "id": "6786b063b8c8592514910f32",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b063b8c8592514910f31.webp"
+            },
+            {
+                "id": "6786b066b8c8592514910f35",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b065b8c8592514910f34.webp"
+            },
+            {
+                "id": "6786b068b8c8592514910f38",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b067b8c8592514910f37.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801164",
+        "city": "Daegu",
+        "city_ascii": "Daegu",
+        "country": {
+            "id": "65cfbe85781486b8898d9dc7",
+            "name": "South Korea"
+        },
+        "iso2": "KR",
+        "capital": "admin",
+        "lat": 35.8717,
+        "lng": 128.6017,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c03eea3104a90d52b682.webp"
+        },
+        "images": [
+            {
+                "id": "6647c040ea3104a90d52b686",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c03fea3104a90d52b685.webp"
+            },
+            {
+                "id": "6647c041ea3104a90d52b689",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c041ea3104a90d52b688.webp"
+            },
+            {
+                "id": "6647c042ea3104a90d52b68c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c042ea3104a90d52b68b.webp"
+            },
+            {
+                "id": "6647c043ea3104a90d52b68f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c043ea3104a90d52b68e.webp"
+            },
+            {
+                "id": "6647c044ea3104a90d52b692",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c044ea3104a90d52b691.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801045",
+        "city": "Chicago",
+        "city_ascii": "Chicago",
+        "country": {
+            "id": "65cfbe85781486b8898d9e87",
+            "name": "United States"
+        },
+        "iso2": "US",
+        "capital": "",
+        "lat": 41.8375,
+        "lng": -87.6866,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee2ea3104a90d52b2f2.webp"
+        },
+        "images": [
+            {
+                "id": "6647bee4ea3104a90d52b2f6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee3ea3104a90d52b2f5.webp"
+            },
+            {
+                "id": "6647bee5ea3104a90d52b2f9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee4ea3104a90d52b2f8.webp"
+            },
+            {
+                "id": "6647bee6ea3104a90d52b2fc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee5ea3104a90d52b2fb.webp"
+            },
+            {
+                "id": "6647bee7ea3104a90d52b2ff",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee6ea3104a90d52b2fe.webp"
+            },
+            {
+                "id": "6647bee7ea3104a90d52b302",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee7ea3104a90d52b301.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680102a",
+        "city": "Rio de Janeiro",
+        "city_ascii": "Rio de Janeiro",
+        "country": {
+            "id": "65cfbe85781486b8898d996f",
+            "name": "Brazil"
+        },
+        "iso2": "BR",
+        "capital": "admin",
+        "lat": -22.9111,
+        "lng": -43.2056,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aebe4e94e4be0d89c21c.webp"
+        },
+        "images": [
+            {
+                "id": "6786aec04e94e4be0d89c220",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec04e94e4be0d89c21f.webp"
+            },
+            {
+                "id": "6786aec14e94e4be0d89c223",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec14e94e4be0d89c222.webp"
+            },
+            {
+                "id": "6786aec34e94e4be0d89c226",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec24e94e4be0d89c225.webp"
+            },
+            {
+                "id": "6786aec44e94e4be0d89c229",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec44e94e4be0d89c228.webp"
+            },
+            {
+                "id": "6786aec64e94e4be0d89c22c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec54e94e4be0d89c22b.webp"
+            },
+            {
+                "id": "6786aec74e94e4be0d89c22f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec74e94e4be0d89c22e.webp"
+            },
+            {
+                "id": "6786aec94e94e4be0d89c232",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec84e94e4be0d89c231.webp"
+            },
+            {
+                "id": "6786aeca4e94e4be0d89c235",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aec94e94e4be0d89c234.webp"
+            },
+            {
+                "id": "6786aecb4e94e4be0d89c238",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aecb4e94e4be0d89c237.webp"
+            },
+            {
+                "id": "6786aecc4e94e4be0d89c23b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aecc4e94e4be0d89c23a.webp"
+            },
+            {
+                "id": "6786aece4e94e4be0d89c23e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aecd4e94e4be0d89c23d.webp"
+            },
+            {
+                "id": "6786aed04e94e4be0d89c241",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aecf4e94e4be0d89c240.webp"
+            },
+            {
+                "id": "6786aed14e94e4be0d89c244",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aed14e94e4be0d89c243.webp"
+            },
+            {
+                "id": "6786aed34e94e4be0d89c247",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786aed24e94e4be0d89c246.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680116d",
+        "city": "Nāgpur",
+        "city_ascii": "Nagpur",
+        "country": {
+            "id": "65cfbe85781486b8898d9b1f",
+            "name": "India"
+        },
+        "iso2": "IN",
+        "capital": "admin",
+        "lat": 21.1497,
+        "lng": 79.0806,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef43bffdad15617813fd.webp"
+        },
+        "images": [
+            {
+                "id": "6799ef45bffdad1561781401",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef45bffdad1561781400.webp"
+            },
+            {
+                "id": "6799ef46bffdad1561781404",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef46bffdad1561781403.webp"
+            },
+            {
+                "id": "6799ef48bffdad1561781407",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef47bffdad1561781406.webp"
+            },
+            {
+                "id": "6799ef49bffdad156178140a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef49bffdad1561781409.webp"
+            },
+            {
+                "id": "6799ef4abffdad156178140d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799ef49bffdad156178140c.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680120b",
+        "city": "Kawasaki",
+        "city_ascii": "Kawasaki",
+        "country": {
+            "id": "65cfbe85781486b8898d9b5f",
+            "name": "Japan"
+        },
+        "iso2": "JP",
+        "capital": "",
+        "lat": 35.5167,
+        "lng": 139.7,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b292b8c8592514911320.webp"
+        },
+        "images": [
+            {
+                "id": "6786b294b8c8592514911324",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b294b8c8592514911323.webp"
+            },
+            {
+                "id": "6786b296b8c8592514911327",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b296b8c8592514911326.webp"
+            },
+            {
+                "id": "6786b297b8c859251491132a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b297b8c8592514911329.webp"
+            },
+            {
+                "id": "6786b29ab8c859251491132d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b299b8c859251491132c.webp"
+            },
+            {
+                "id": "6786b29cb8c8592514911330",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b29cb8c859251491132f.webp"
+            },
+            {
+                "id": "6786b29db8c8592514911333",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b29db8c8592514911332.webp"
+            },
+            {
+                "id": "6786b29fb8c8592514911336",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b29eb8c8592514911335.webp"
+            },
+            {
+                "id": "6786b2a0b8c8592514911339",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b2a0b8c8592514911338.webp"
+            },
+            {
+                "id": "6786b2a2b8c859251491133c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b2a2b8c859251491133b.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768013e9",
+        "city": "Taguig City",
+        "city_ascii": "Taguig City",
+        "country": {
+            "id": "65cfbe85781486b8898d9d07",
+            "name": "Philippines"
+        },
+        "iso2": "PH",
+        "capital": "admin",
+        "lat": 14.52,
+        "lng": 121.05,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c224ea3104a90d52bc30.webp"
+        },
+        "images": [
+            {
+                "id": "6647c226ea3104a90d52bc34",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c225ea3104a90d52bc33.webp"
+            },
+            {
+                "id": "6647c227ea3104a90d52bc37",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c226ea3104a90d52bc36.webp"
+            },
+            {
+                "id": "6647c229ea3104a90d52bc3a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c228ea3104a90d52bc39.webp"
+            },
+            {
+                "id": "6647c22aea3104a90d52bc3d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c229ea3104a90d52bc3c.webp"
+            },
+            {
+                "id": "6647c22bea3104a90d52bc40",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c22aea3104a90d52bc3f.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801114",
+        "city": "Taichung",
+        "city_ascii": "Taichung",
+        "country": null,
+        "iso2": "TW",
+        "capital": "admin",
+        "lat": 24.1439,
+        "lng": 120.6794,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfdeea3104a90d52b58b.webp"
+        },
+        "images": [
+            {
+                "id": "6647bfe1ea3104a90d52b58f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfe1ea3104a90d52b58e.webp"
+            },
+            {
+                "id": "6647bfe4ea3104a90d52b592",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfe3ea3104a90d52b591.webp"
+            },
+            {
+                "id": "6647bfe6ea3104a90d52b595",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfe5ea3104a90d52b594.webp"
+            },
+            {
+                "id": "6647bfe8ea3104a90d52b598",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfe7ea3104a90d52b597.webp"
+            },
+            {
+                "id": "6647bfe9ea3104a90d52b59b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfe9ea3104a90d52b59a.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680131a",
+        "city": "Zagreb",
+        "city_ascii": "Zagreb",
+        "country": {
+            "id": "65cfbe85781486b8898d99f7",
+            "name": "Croatia"
+        },
+        "iso2": "HR",
+        "capital": "primary",
+        "lat": 45.8167,
+        "lng": 15.9833,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1bbea3104a90d52baed.webp"
+        },
+        "images": [
+            {
+                "id": "6647c1bcea3104a90d52baf1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1bcea3104a90d52baf0.webp"
+            },
+            {
+                "id": "6647c1bdea3104a90d52baf4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1bcea3104a90d52baf3.webp"
+            },
+            {
+                "id": "6647c1beea3104a90d52baf7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1bdea3104a90d52baf6.webp"
+            },
+            {
+                "id": "6647c1bfea3104a90d52bafa",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1bfea3104a90d52baf9.webp"
+            },
+            {
+                "id": "6647c1c0ea3104a90d52bafd",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1c0ea3104a90d52bafc.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801186",
+        "city": "Manaus",
+        "city_ascii": "Manaus",
+        "country": {
+            "id": "65cfbe85781486b8898d996f",
+            "name": "Brazil"
+        },
+        "iso2": "BR",
+        "capital": "admin",
+        "lat": -3.1,
+        "lng": -60.0167,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b13ab8c85925149110af.webp"
+        },
+        "images": [
+            {
+                "id": "6786b13cb8c85925149110b3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b13cb8c85925149110b2.webp"
+            },
+            {
+                "id": "6786b13db8c85925149110b6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b13db8c85925149110b5.webp"
+            },
+            {
+                "id": "6786b13fb8c85925149110b9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b13fb8c85925149110b8.webp"
+            },
+            {
+                "id": "6786b140b8c85925149110bc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b140b8c85925149110bb.webp"
+            },
+            {
+                "id": "6786b142b8c85925149110bf",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b142b8c85925149110be.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768011d5",
+        "city": "Adana",
+        "city_ascii": "Adana",
+        "country": {
+            "id": "65cfbe85781486b8898d9e4f",
+            "name": "Turkey"
+        },
+        "iso2": "TR",
+        "capital": "admin",
+        "lat": 37,
+        "lng": 35.3213,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0b9ea3104a90d52b7eb.webp"
+        },
+        "images": [
+            {
+                "id": "6647c0baea3104a90d52b7ef",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0baea3104a90d52b7ee.webp"
+            },
+            {
+                "id": "6647c0bbea3104a90d52b7f2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0baea3104a90d52b7f1.webp"
+            },
+            {
+                "id": "6647c0bcea3104a90d52b7f5",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0bcea3104a90d52b7f4.webp"
+            },
+            {
+                "id": "6647c0bdea3104a90d52b7f8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0bdea3104a90d52b7f7.webp"
+            },
+            {
+                "id": "6647c0beea3104a90d52b7fb",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c0beea3104a90d52b7fa.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768011b9",
+        "city": "Almaty",
+        "city_ascii": "Almaty",
+        "country": {
+            "id": "65cfbe85781486b8898d9b6f",
+            "name": "Kazakhstan"
+        },
+        "iso2": "KZ",
+        "capital": "admin",
+        "lat": 43.2775,
+        "lng": 76.8958,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b16fb8c8592514911115.webp"
+        },
+        "images": [
+            {
+                "id": "6786b170b8c8592514911119",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b170b8c8592514911118.webp"
+            },
+            {
+                "id": "6786b172b8c859251491111c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b172b8c859251491111b.webp"
+            },
+            {
+                "id": "6786b174b8c859251491111f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b173b8c859251491111e.webp"
+            },
+            {
+                "id": "6786b176b8c8592514911122",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b175b8c8592514911121.webp"
+            },
+            {
+                "id": "6786b178b8c8592514911125",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b177b8c8592514911124.webp"
+            },
+            {
+                "id": "6786b17ab8c8592514911128",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b179b8c8592514911127.webp"
+            },
+            {
+                "id": "6786b17db8c859251491112b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b17cb8c859251491112a.webp"
+            },
+            {
+                "id": "6786b17fb8c859251491112e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b17fb8c859251491112d.webp"
+            },
+            {
+                "id": "6786b180b8c8592514911131",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b180b8c8592514911130.webp"
+            },
+            {
+                "id": "6786b182b8c8592514911134",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b182b8c8592514911133.webp"
+            },
+            {
+                "id": "6786b183b8c8592514911137",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b183b8c8592514911136.webp"
+            },
+            {
+                "id": "6786b185b8c859251491113a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b185b8c8592514911139.webp"
+            },
+            {
+                "id": "6786b187b8c859251491113d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b186b8c859251491113c.webp"
+            },
+            {
+                "id": "6786b188b8c8592514911140",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b188b8c859251491113f.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801038",
+        "city": "Wuhan",
+        "city_ascii": "Wuhan",
+        "country": {
+            "id": "65cfbe85781486b8898d99cf",
+            "name": "China"
+        },
+        "iso2": "CN",
+        "capital": "admin",
+        "lat": 30.5872,
+        "lng": 114.2881,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec1ea3104a90d52b293.webp"
+        },
+        "images": [
+            {
+                "id": "6647bec2ea3104a90d52b297",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec2ea3104a90d52b296.webp"
+            },
+            {
+                "id": "6647bec3ea3104a90d52b29a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec3ea3104a90d52b299.webp"
+            },
+            {
+                "id": "6647bec4ea3104a90d52b29d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec4ea3104a90d52b29c.webp"
+            },
+            {
+                "id": "6647bec5ea3104a90d52b2a0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec5ea3104a90d52b29f.webp"
+            },
+            {
+                "id": "6647bec6ea3104a90d52b2a3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bec6ea3104a90d52b2a2.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768010a1",
+        "city": "Sydney",
+        "city_ascii": "Sydney",
+        "country": {
+            "id": "65cfbe85781486b8898d98f7",
+            "name": "Australia"
+        },
+        "iso2": "AU",
+        "capital": "admin",
+        "lat": -33.8678,
+        "lng": 151.21,
+        "rate": 4.4,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6aea3104a90d52b46e.webp"
+        },
+        "images": [
+            {
+                "id": "6647bf6bea3104a90d52b472",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6bea3104a90d52b471.webp"
+            },
+            {
+                "id": "6647bf6cea3104a90d52b475",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6cea3104a90d52b474.webp"
+            },
+            {
+                "id": "6647bf6dea3104a90d52b478",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6dea3104a90d52b477.webp"
+            },
+            {
+                "id": "6647bf6eea3104a90d52b47b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6eea3104a90d52b47a.webp"
+            },
+            {
+                "id": "6647bf6fea3104a90d52b47e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf6fea3104a90d52b47d.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801132",
+        "city": "Kaohsiung",
+        "city_ascii": "Kaohsiung",
+        "country": null,
+        "iso2": "TW",
+        "capital": "admin",
+        "lat": 22.615,
+        "lng": 120.2975,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c017ea3104a90d52b610.webp"
+        },
+        "images": [
+            {
+                "id": "6647c018ea3104a90d52b614",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c018ea3104a90d52b613.webp"
+            },
+            {
+                "id": "6647c01bea3104a90d52b617",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c01bea3104a90d52b616.webp"
+            },
+            {
+                "id": "6647c01cea3104a90d52b61a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c01cea3104a90d52b619.webp"
+            },
+            {
+                "id": "6647c01dea3104a90d52b61d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c01dea3104a90d52b61c.webp"
+            },
+            {
+                "id": "6647c01eea3104a90d52b620",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c01dea3104a90d52b61f.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801026",
+        "city": "Ōsaka",
+        "city_ascii": "Osaka",
+        "country": {
+            "id": "65cfbe85781486b8898d9b5f",
+            "name": "Japan"
+        },
+        "iso2": "JP",
+        "capital": "admin",
+        "lat": 34.6939,
+        "lng": 135.5022,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af674e94e4be0d89c330.webp"
+        },
+        "images": [
+            {
+                "id": "6786af6a4e94e4be0d89c334",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af694e94e4be0d89c333.webp"
+            },
+            {
+                "id": "6786af6b4e94e4be0d89c337",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af6b4e94e4be0d89c336.webp"
+            },
+            {
+                "id": "6786af6d4e94e4be0d89c33a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af6c4e94e4be0d89c339.webp"
+            },
+            {
+                "id": "6786af704e94e4be0d89c33d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af704e94e4be0d89c33c.webp"
+            },
+            {
+                "id": "6786af724e94e4be0d89c340",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af724e94e4be0d89c33f.webp"
+            },
+            {
+                "id": "6786af744e94e4be0d89c343",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af744e94e4be0d89c342.webp"
+            },
+            {
+                "id": "6786af764e94e4be0d89c346",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af754e94e4be0d89c345.webp"
+            },
+            {
+                "id": "6786af794e94e4be0d89c349",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af794e94e4be0d89c348.webp"
+            },
+            {
+                "id": "6786af7b4e94e4be0d89c34c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af7b4e94e4be0d89c34b.webp"
+            },
+            {
+                "id": "6786af7d4e94e4be0d89c34f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af7d4e94e4be0d89c34e.webp"
+            },
+            {
+                "id": "6786af7e4e94e4be0d89c352",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af7e4e94e4be0d89c351.webp"
+            },
+            {
+                "id": "6786af7f4e94e4be0d89c355",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af7f4e94e4be0d89c354.webp"
+            },
+            {
+                "id": "6786af814e94e4be0d89c358",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af804e94e4be0d89c357.webp"
+            },
+            {
+                "id": "6786af824e94e4be0d89c35b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af824e94e4be0d89c35a.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801017",
+        "city": "Mexico City",
+        "city_ascii": "Mexico City",
+        "country": {
+            "id": "65cfbe85781486b8898d9c27",
+            "name": "Mexico"
+        },
+        "iso2": "MX",
+        "capital": "primary",
+        "lat": 19.4333,
+        "lng": -99.1333,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be54ea3104a90d52b150.webp"
+        },
+        "images": [
+            {
+                "id": "6647be56ea3104a90d52b154",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be55ea3104a90d52b153.webp"
+            },
+            {
+                "id": "6647be57ea3104a90d52b157",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be57ea3104a90d52b156.webp"
+            },
+            {
+                "id": "6647be58ea3104a90d52b15a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be57ea3104a90d52b159.webp"
+            },
+            {
+                "id": "6647be59ea3104a90d52b15d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be59ea3104a90d52b15c.webp"
+            },
+            {
+                "id": "6647be5aea3104a90d52b160",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be5aea3104a90d52b15f.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801027",
+        "city": "Chengdu",
+        "city_ascii": "Chengdu",
+        "country": {
+            "id": "65cfbe85781486b8898d99cf",
+            "name": "China"
+        },
+        "iso2": "CN",
+        "capital": "admin",
+        "lat": 30.66,
+        "lng": 104.0633,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be8fea3104a90d52b1fb.webp"
+        },
+        "images": [
+            {
+                "id": "6647be91ea3104a90d52b1ff",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be91ea3104a90d52b1fe.webp"
+            },
+            {
+                "id": "6647be92ea3104a90d52b202",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be92ea3104a90d52b201.webp"
+            },
+            {
+                "id": "6647be93ea3104a90d52b205",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be93ea3104a90d52b204.webp"
+            },
+            {
+                "id": "6647be94ea3104a90d52b208",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be94ea3104a90d52b207.webp"
+            },
+            {
+                "id": "6647be95ea3104a90d52b20b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be95ea3104a90d52b20a.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801137",
+        "city": "Manchester",
+        "city_ascii": "Manchester",
+        "country": {
+            "id": "65cfbe85781486b8898d9e7f",
+            "name": "United Kingdom"
+        },
+        "iso2": "GB",
+        "capital": "",
+        "lat": 53.4794,
+        "lng": -2.2453,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c026ea3104a90d52b636.webp"
+        },
+        "images": [
+            {
+                "id": "6647c027ea3104a90d52b63a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c027ea3104a90d52b639.webp"
+            },
+            {
+                "id": "6647c028ea3104a90d52b63d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c028ea3104a90d52b63c.webp"
+            },
+            {
+                "id": "6647c029ea3104a90d52b640",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c029ea3104a90d52b63f.webp"
+            },
+            {
+                "id": "6647c02aea3104a90d52b643",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c02aea3104a90d52b642.webp"
+            },
+            {
+                "id": "6647c02bea3104a90d52b646",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c02aea3104a90d52b645.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801320",
+        "city": "Quebec City",
+        "city_ascii": "Quebec City",
+        "country": {
+            "id": "65cfbe85781486b8898d99af",
+            "name": "Canada"
+        },
+        "iso2": "CA",
+        "capital": "admin",
+        "lat": 46.8139,
+        "lng": -71.2081,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1cdea3104a90d52bb26.webp"
+        },
+        "images": [
+            {
+                "id": "6647c1ceea3104a90d52bb2a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1ceea3104a90d52bb29.webp"
+            },
+            {
+                "id": "6647c1cfea3104a90d52bb2d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1cfea3104a90d52bb2c.webp"
+            },
+            {
+                "id": "6647c1d0ea3104a90d52bb30",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d0ea3104a90d52bb2f.webp"
+            },
+            {
+                "id": "6647c1d1ea3104a90d52bb33",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d1ea3104a90d52bb32.webp"
+            },
+            {
+                "id": "6647c1d2ea3104a90d52bb36",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d2ea3104a90d52bb35.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768010ac",
+        "city": "Melbourne",
+        "city_ascii": "Melbourne",
+        "country": {
+            "id": "65cfbe85781486b8898d98f7",
+            "name": "Australia"
+        },
+        "iso2": "AU",
+        "capital": "admin",
+        "lat": -37.8142,
+        "lng": 144.9631,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf70ea3104a90d52b481.webp"
+        },
+        "images": [
+            {
+                "id": "6647bf71ea3104a90d52b485",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf71ea3104a90d52b484.webp"
+            },
+            {
+                "id": "6647bf73ea3104a90d52b488",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf72ea3104a90d52b487.webp"
+            },
+            {
+                "id": "6647bf74ea3104a90d52b48b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf73ea3104a90d52b48a.webp"
+            },
+            {
+                "id": "6647bf75ea3104a90d52b48e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf75ea3104a90d52b48d.webp"
+            },
+            {
+                "id": "6647bf76ea3104a90d52b491",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf76ea3104a90d52b490.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801142",
+        "city": "Denver",
+        "city_ascii": "Denver",
+        "country": {
+            "id": "65cfbe85781486b8898d9e87",
+            "name": "United States"
+        },
+        "iso2": "US",
+        "capital": "admin",
+        "lat": 39.762,
+        "lng": -104.8758,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af2c4e94e4be0d89c2d4.webp"
+        },
+        "images": [
+            {
+                "id": "6786af2e4e94e4be0d89c2d8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af2e4e94e4be0d89c2d7.webp"
+            },
+            {
+                "id": "6786af314e94e4be0d89c2db",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af304e94e4be0d89c2da.webp"
+            },
+            {
+                "id": "6786af364e94e4be0d89c2de",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af354e94e4be0d89c2dd.webp"
+            },
+            {
+                "id": "6786af374e94e4be0d89c2e1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af374e94e4be0d89c2e0.webp"
+            },
+            {
+                "id": "6786af394e94e4be0d89c2e4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af394e94e4be0d89c2e3.webp"
+            },
+            {
+                "id": "6786af3b4e94e4be0d89c2e7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af3a4e94e4be0d89c2e6.webp"
+            },
+            {
+                "id": "6786af3c4e94e4be0d89c2ea",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af3c4e94e4be0d89c2e9.webp"
+            },
+            {
+                "id": "6786af3d4e94e4be0d89c2ed",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af3d4e94e4be0d89c2ec.webp"
+            },
+            {
+                "id": "6786af3f4e94e4be0d89c2f0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af3f4e94e4be0d89c2ef.webp"
+            },
+            {
+                "id": "6786af404e94e4be0d89c2f3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af404e94e4be0d89c2f2.webp"
+            },
+            {
+                "id": "6786af424e94e4be0d89c2f6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af414e94e4be0d89c2f5.webp"
+            },
+            {
+                "id": "6786af434e94e4be0d89c2f9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af424e94e4be0d89c2f8.webp"
+            },
+            {
+                "id": "6786af444e94e4be0d89c2fc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af444e94e4be0d89c2fb.webp"
+            },
+            {
+                "id": "6786af464e94e4be0d89c2ff",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786af454e94e4be0d89c2fe.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680101c",
+        "city": "Kolkāta",
+        "city_ascii": "Kolkata",
+        "country": {
+            "id": "65cfbe85781486b8898d9b1f",
+            "name": "India"
+        },
+        "iso2": "IN",
+        "capital": "admin",
+        "lat": 22.5675,
+        "lng": 88.37,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b06ab8c8592514910f3b.webp"
+        },
+        "images": [
+            {
+                "id": "6786b06cb8c8592514910f3f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b06cb8c8592514910f3e.webp"
+            },
+            {
+                "id": "6786b06db8c8592514910f42",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b06db8c8592514910f41.webp"
+            },
+            {
+                "id": "6786b06eb8c8592514910f45",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b06eb8c8592514910f44.webp"
+            },
+            {
+                "id": "6786b070b8c8592514910f48",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b06fb8c8592514910f47.webp"
+            },
+            {
+                "id": "6786b071b8c8592514910f4b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b070b8c8592514910f4a.webp"
+            },
+            {
+                "id": "6786b072b8c8592514910f4e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b072b8c8592514910f4d.webp"
+            },
+            {
+                "id": "6786b074b8c8592514910f51",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b073b8c8592514910f50.webp"
+            },
+            {
+                "id": "6786b075b8c8592514910f54",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b075b8c8592514910f53.webp"
+            },
+            {
+                "id": "6786b077b8c8592514910f57",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b076b8c8592514910f56.webp"
+            },
+            {
+                "id": "6786b078b8c8592514910f5a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b077b8c8592514910f59.webp"
+            },
+            {
+                "id": "6786b07ab8c8592514910f5d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b079b8c8592514910f5c.webp"
+            },
+            {
+                "id": "6786b07cb8c8592514910f60",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b07bb8c8592514910f5f.webp"
+            },
+            {
+                "id": "6786b07eb8c8592514910f63",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b07eb8c8592514910f62.webp"
+            },
+            {
+                "id": "6786b07fb8c8592514910f66",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b07fb8c8592514910f65.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680116c",
+        "city": "Antalya",
+        "city_ascii": "Antalya",
+        "country": {
+            "id": "65cfbe85781486b8898d9e4f",
+            "name": "Turkey"
+        },
+        "iso2": "TR",
+        "capital": "admin",
+        "lat": 36.8874,
+        "lng": 30.7075,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c045ea3104a90d52b695.webp"
+        },
+        "images": [
+            {
+                "id": "6647c047ea3104a90d52b699",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c046ea3104a90d52b698.webp"
+            },
+            {
+                "id": "6647c048ea3104a90d52b69c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c047ea3104a90d52b69b.webp"
+            },
+            {
+                "id": "6647c049ea3104a90d52b69f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c048ea3104a90d52b69e.webp"
+            },
+            {
+                "id": "6647c04aea3104a90d52b6a2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c049ea3104a90d52b6a1.webp"
+            },
+            {
+                "id": "6647c04bea3104a90d52b6a5",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c04aea3104a90d52b6a4.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801125",
+        "city": "Bursa",
+        "city_ascii": "Bursa",
+        "country": {
+            "id": "65cfbe85781486b8898d9e4f",
+            "name": "Turkey"
+        },
+        "iso2": "TR",
+        "capital": "admin",
+        "lat": 40.1833,
+        "lng": 29.05,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00aea3104a90d52b5ea.webp"
+        },
+        "images": [
+            {
+                "id": "6647c00bea3104a90d52b5ee",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00bea3104a90d52b5ed.webp"
+            },
+            {
+                "id": "6647c00cea3104a90d52b5f1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00cea3104a90d52b5f0.webp"
+            },
+            {
+                "id": "6647c00dea3104a90d52b5f4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00dea3104a90d52b5f3.webp"
+            },
+            {
+                "id": "6647c00eea3104a90d52b5f7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00eea3104a90d52b5f6.webp"
+            },
+            {
+                "id": "6647c00fea3104a90d52b5fa",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c00fea3104a90d52b5f9.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768010f4",
+        "city": "Mashhad",
+        "city_ascii": "Mashhad",
+        "country": {
+            "id": "65cfbe85781486b8898d9b2f",
+            "name": "Iran"
+        },
+        "iso2": "IR",
+        "capital": "admin",
+        "lat": 36.3,
+        "lng": 59.6,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfadea3104a90d52b52c.webp"
+        },
+        "images": [
+            {
+                "id": "6647bfafea3104a90d52b530",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfafea3104a90d52b52f.webp"
+            },
+            {
+                "id": "6647bfb1ea3104a90d52b533",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfb1ea3104a90d52b532.webp"
+            },
+            {
+                "id": "6647bfb2ea3104a90d52b536",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfb2ea3104a90d52b535.webp"
+            },
+            {
+                "id": "6647bfb4ea3104a90d52b539",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfb4ea3104a90d52b538.webp"
+            },
+            {
+                "id": "6647bfb5ea3104a90d52b53c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bfb5ea3104a90d52b53b.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801058",
+        "city": "Riyadh",
+        "city_ascii": "Riyadh",
+        "country": {
+            "id": "65cfbe85781486b8898d9d6f",
+            "name": "Saudi Arabia"
+        },
+        "iso2": "SA",
+        "capital": "primary",
+        "lat": 24.6333,
+        "lng": 46.7167,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0aea3104a90d52b364.webp"
+        },
+        "images": [
+            {
+                "id": "6647bf0bea3104a90d52b368",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0bea3104a90d52b367.webp"
+            },
+            {
+                "id": "6647bf0dea3104a90d52b36b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0cea3104a90d52b36a.webp"
+            },
+            {
+                "id": "6647bf0eea3104a90d52b36e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0dea3104a90d52b36d.webp"
+            },
+            {
+                "id": "6647bf0eea3104a90d52b371",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0eea3104a90d52b370.webp"
+            },
+            {
+                "id": "6647bf10ea3104a90d52b374",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf0fea3104a90d52b373.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801181",
+        "city": "Tangerang",
+        "city_ascii": "Tangerang",
+        "country": {
+            "id": "65cfbe85781486b8898d9b27",
+            "name": "Indonesia"
+        },
+        "iso2": "ID",
+        "capital": "",
+        "lat": -6.1783,
+        "lng": 106.6319,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c069ea3104a90d52b6f4.webp"
+        },
+        "images": [
+            {
+                "id": "6647c06aea3104a90d52b6f8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c06aea3104a90d52b6f7.webp"
+            },
+            {
+                "id": "6647c06bea3104a90d52b6fb",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c06bea3104a90d52b6fa.webp"
+            },
+            {
+                "id": "6647c06cea3104a90d52b6fe",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c06cea3104a90d52b6fd.webp"
+            },
+            {
+                "id": "6647c06dea3104a90d52b701",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c06dea3104a90d52b700.webp"
+            },
+            {
+                "id": "6647c06fea3104a90d52b704",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c06eea3104a90d52b703.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801024",
+        "city": "Bangalore",
+        "city_ascii": "Bangalore",
+        "country": {
+            "id": "65cfbe85781486b8898d9b1f",
+            "name": "India"
+        },
+        "iso2": "IN",
+        "capital": "admin",
+        "lat": 12.9789,
+        "lng": 77.5917,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bedcea3104a90d52b2df.webp"
+        },
+        "images": [
+            {
+                "id": "6647beddea3104a90d52b2e3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647beddea3104a90d52b2e2.webp"
+            },
+            {
+                "id": "6647bedeea3104a90d52b2e6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bedeea3104a90d52b2e5.webp"
+            },
+            {
+                "id": "6647bedfea3104a90d52b2e9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bedfea3104a90d52b2e8.webp"
+            },
+            {
+                "id": "6647bee0ea3104a90d52b2ec",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee0ea3104a90d52b2eb.webp"
+            },
+            {
+                "id": "6647bee1ea3104a90d52b2ef",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bee1ea3104a90d52b2ee.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801014",
+        "city": "Shanghai",
+        "city_ascii": "Shanghai",
+        "country": {
+            "id": "65cfbe85781486b8898d99cf",
+            "name": "China"
+        },
+        "iso2": "CN",
+        "capital": "admin",
+        "lat": 31.1667,
+        "lng": 121.4667,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be89ea3104a90d52b1e8.webp"
+        },
+        "images": [
+            {
+                "id": "6647be8aea3104a90d52b1ec",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be89ea3104a90d52b1eb.webp"
+            },
+            {
+                "id": "6647be8bea3104a90d52b1ef",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be8aea3104a90d52b1ee.webp"
+            },
+            {
+                "id": "6647be8cea3104a90d52b1f2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be8cea3104a90d52b1f1.webp"
+            },
+            {
+                "id": "6647be8dea3104a90d52b1f5",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be8dea3104a90d52b1f4.webp"
+            },
+            {
+                "id": "6647be8eea3104a90d52b1f8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be8eea3104a90d52b1f7.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768012b7",
+        "city": "Tbilisi",
+        "city_ascii": "Tbilisi",
+        "country": {
+            "id": "65cfbe85781486b8898d9aaf",
+            "name": "Georgia"
+        },
+        "iso2": "GE",
+        "capital": "primary",
+        "lat": 41.7225,
+        "lng": 44.7925,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c188ea3104a90d52ba5e.webp"
+        },
+        "images": [
+            {
+                "id": "6647c18aea3104a90d52ba62",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c189ea3104a90d52ba61.webp"
+            },
+            {
+                "id": "6647c18bea3104a90d52ba65",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c18aea3104a90d52ba64.webp"
+            },
+            {
+                "id": "6647c18cea3104a90d52ba68",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c18bea3104a90d52ba67.webp"
+            },
+            {
+                "id": "6647c18dea3104a90d52ba6b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c18dea3104a90d52ba6a.webp"
+            },
+            {
+                "id": "6647c18eea3104a90d52ba6e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c18eea3104a90d52ba6d.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801306",
+        "city": "Arequipa",
+        "city_ascii": "Arequipa",
+        "country": {
+            "id": "65cfbe85781486b8898d9cff",
+            "name": "Peru"
+        },
+        "iso2": "PE",
+        "capital": "admin",
+        "lat": -16.4,
+        "lng": -71.5333,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b521b8c85925149117a5.webp"
+        },
+        "images": [
+            {
+                "id": "6786b524b8c85925149117a9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b524b8c85925149117a8.webp"
+            },
+            {
+                "id": "6786b526b8c85925149117ac",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b526b8c85925149117ab.webp"
+            },
+            {
+                "id": "6786b528b8c85925149117af",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b527b8c85925149117ae.webp"
+            },
+            {
+                "id": "6786b52ab8c85925149117b2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b529b8c85925149117b1.webp"
+            },
+            {
+                "id": "6786b52bb8c85925149117b5",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b52ab8c85925149117b4.webp"
+            },
+            {
+                "id": "6786b52db8c85925149117b8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b52db8c85925149117b7.webp"
+            },
+            {
+                "id": "6786b52eb8c85925149117bb",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b52eb8c85925149117ba.webp"
+            },
+            {
+                "id": "6786b530b8c85925149117be",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b530b8c85925149117bd.webp"
+            },
+            {
+                "id": "6786b533b8c85925149117c1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b532b8c85925149117c0.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801275",
+        "city": "Kazan",
+        "city_ascii": "Kazan",
+        "country": {
+            "id": "65cfbe85781486b8898d9d2f",
+            "name": "Russia"
+        },
+        "iso2": "RU",
+        "capital": "admin",
+        "lat": 55.7964,
+        "lng": 49.1089,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c14dea3104a90d52b9b3.webp"
+        },
+        "images": [
+            {
+                "id": "6647c14eea3104a90d52b9b7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c14eea3104a90d52b9b6.webp"
+            },
+            {
+                "id": "6647c14fea3104a90d52b9ba",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c14fea3104a90d52b9b9.webp"
+            },
+            {
+                "id": "6647c150ea3104a90d52b9bd",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c150ea3104a90d52b9bc.webp"
+            },
+            {
+                "id": "6647c151ea3104a90d52b9c0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c151ea3104a90d52b9bf.webp"
+            },
+            {
+                "id": "6647c152ea3104a90d52b9c3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c152ea3104a90d52b9c2.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768012f4",
+        "city": "Shymkent",
+        "city_ascii": "Shymkent",
+        "country": {
+            "id": "65cfbe85781486b8898d9b6f",
+            "name": "Kazakhstan"
+        },
+        "iso2": "KZ",
+        "capital": "admin",
+        "lat": 42.3167,
+        "lng": 69.5958,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08294d8f580f06e2eaf.webp"
+        },
+        "images": [
+            {
+                "id": "6799f08494d8f580f06e2eb3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08494d8f580f06e2eb2.webp"
+            },
+            {
+                "id": "6799f08594d8f580f06e2eb6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08594d8f580f06e2eb5.webp"
+            },
+            {
+                "id": "6799f08694d8f580f06e2eb9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08594d8f580f06e2eb8.webp"
+            },
+            {
+                "id": "6799f08794d8f580f06e2ebc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08794d8f580f06e2ebb.webp"
+            },
+            {
+                "id": "6799f08894d8f580f06e2ebf",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f08894d8f580f06e2ebe.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680129e",
+        "city": "Samara",
+        "city_ascii": "Samara",
+        "country": {
+            "id": "65cfbe85781486b8898d9d2f",
+            "name": "Russia"
+        },
+        "iso2": "RU",
+        "capital": "admin",
+        "lat": 53.2028,
+        "lng": 50.1408,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17aea3104a90d52ba38.webp"
+        },
+        "images": [
+            {
+                "id": "6647c17cea3104a90d52ba3c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17bea3104a90d52ba3b.webp"
+            },
+            {
+                "id": "6647c17dea3104a90d52ba3f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17cea3104a90d52ba3e.webp"
+            },
+            {
+                "id": "6647c17eea3104a90d52ba42",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17dea3104a90d52ba41.webp"
+            },
+            {
+                "id": "6647c17fea3104a90d52ba45",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17fea3104a90d52ba44.webp"
+            },
+            {
+                "id": "6647c180ea3104a90d52ba48",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c17fea3104a90d52ba47.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680112c",
+        "city": "Minneapolis",
+        "city_ascii": "Minneapolis",
+        "country": {
+            "id": "65cfbe85781486b8898d9e87",
+            "name": "United States"
+        },
+        "iso2": "US",
+        "capital": "",
+        "lat": 44.9635,
+        "lng": -93.2678,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b03fb8c8592514910eef.webp"
+        },
+        "images": [
+            {
+                "id": "6786b041b8c8592514910ef8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b040b8c8592514910ef7.webp"
+            },
+            {
+                "id": "6786b043b8c8592514910efb",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b042b8c8592514910efa.webp"
+            },
+            {
+                "id": "6786b044b8c8592514910efe",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b043b8c8592514910efd.webp"
+            },
+            {
+                "id": "6786b045b8c8592514910f01",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b045b8c8592514910f00.webp"
+            },
+            {
+                "id": "6786b047b8c8592514910f04",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b046b8c8592514910f03.webp"
+            },
+            {
+                "id": "6786b049b8c8592514910f07",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b049b8c8592514910f06.webp"
+            },
+            {
+                "id": "6786b04bb8c8592514910f0a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b04ab8c8592514910f09.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801193",
+        "city": "Phnom Penh",
+        "city_ascii": "Phnom Penh",
+        "country": {
+            "id": "65cfbe85781486b8898d999f",
+            "name": "Cambodia"
+        },
+        "iso2": "KH",
+        "capital": "primary",
+        "lat": 11.5694,
+        "lng": 104.9211,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c07bea3104a90d52b72d.webp"
+        },
+        "images": [
+            {
+                "id": "6647c07cea3104a90d52b731",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c07cea3104a90d52b730.webp"
+            },
+            {
+                "id": "6647c07dea3104a90d52b734",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c07cea3104a90d52b733.webp"
+            },
+            {
+                "id": "6647c07eea3104a90d52b737",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c07dea3104a90d52b736.webp"
+            },
+            {
+                "id": "6647c07fea3104a90d52b73a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c07eea3104a90d52b739.webp"
+            },
+            {
+                "id": "6647c080ea3104a90d52b73d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c080ea3104a90d52b73c.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801263",
+        "city": "Porto",
+        "city_ascii": "Porto",
+        "country": {
+            "id": "65cfbe85781486b8898d9d17",
+            "name": "Portugal"
+        },
+        "iso2": "PT",
+        "capital": "admin",
+        "lat": 41.1621,
+        "lng": -8.622,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c13cea3104a90d52b97a.webp"
+        },
+        "images": [
+            {
+                "id": "6647c13dea3104a90d52b97e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c13dea3104a90d52b97d.webp"
+            },
+            {
+                "id": "6647c13eea3104a90d52b981",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c13eea3104a90d52b980.webp"
+            },
+            {
+                "id": "6647c13fea3104a90d52b984",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c13fea3104a90d52b983.webp"
+            },
+            {
+                "id": "6647c140ea3104a90d52b987",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c140ea3104a90d52b986.webp"
+            },
+            {
+                "id": "6647c141ea3104a90d52b98a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c141ea3104a90d52b989.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768012d5",
+        "city": "Rānchi",
+        "city_ascii": "Ranchi",
+        "country": {
+            "id": "65cfbe85781486b8898d9b1f",
+            "name": "India"
+        },
+        "iso2": "IN",
+        "capital": "admin",
+        "lat": 23.36,
+        "lng": 85.33,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06094d8f580f06e2e50.webp"
+        },
+        "images": [
+            {
+                "id": "6799f06294d8f580f06e2e54",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06194d8f580f06e2e53.webp"
+            },
+            {
+                "id": "6799f06394d8f580f06e2e57",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06394d8f580f06e2e56.webp"
+            },
+            {
+                "id": "6799f06494d8f580f06e2e5a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06394d8f580f06e2e59.webp"
+            },
+            {
+                "id": "6799f06594d8f580f06e2e5d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06594d8f580f06e2e5c.webp"
+            },
+            {
+                "id": "6799f06694d8f580f06e2e60",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/29/6799f06594d8f580f06e2e5f.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768010ad",
+        "city": "Berlin",
+        "city_ascii": "Berlin",
+        "country": {
+            "id": "65cfbe85781486b8898d9ab7",
+            "name": "Germany"
+        },
+        "iso2": "DE",
+        "capital": "primary",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf77ea3104a90d52b494.webp"
+        },
+        "images": [
+            {
+                "id": "6647bf78ea3104a90d52b498",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf78ea3104a90d52b497.webp"
+            },
+            {
+                "id": "6647bf79ea3104a90d52b49b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf79ea3104a90d52b49a.webp"
+            },
+            {
+                "id": "6647bf7aea3104a90d52b49e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf7aea3104a90d52b49d.webp"
+            },
+            {
+                "id": "6647bf7bea3104a90d52b4a1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf7bea3104a90d52b4a0.webp"
+            },
+            {
+                "id": "6647bf7cea3104a90d52b4a4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf7bea3104a90d52b4a3.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801080",
+        "city": "Guadalajara",
+        "city_ascii": "Guadalajara",
+        "country": {
+            "id": "65cfbe85781486b8898d9c27",
+            "name": "Mexico"
+        },
+        "iso2": "MX",
+        "capital": "admin",
+        "lat": 20.6767,
+        "lng": -103.3475,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf39ea3104a90d52b3e9.webp"
+        },
+        "images": [
+            {
+                "id": "6647bf3bea3104a90d52b3ed",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf3bea3104a90d52b3ec.webp"
+            },
+            {
+                "id": "6647bf3dea3104a90d52b3f0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf3cea3104a90d52b3ef.webp"
+            },
+            {
+                "id": "6647bf3eea3104a90d52b3f3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf3eea3104a90d52b3f2.webp"
+            },
+            {
+                "id": "6647bf40ea3104a90d52b3f6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf3fea3104a90d52b3f5.webp"
+            },
+            {
+                "id": "6647bf41ea3104a90d52b3f9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647bf41ea3104a90d52b3f8.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680105a",
+        "city": "Santiago",
+        "city_ascii": "Santiago",
+        "country": {
+            "id": "65cfbe85781486b8898d99c7",
+            "name": "Chile"
+        },
+        "iso2": "CL",
+        "capital": "primary",
+        "lat": -33.4372,
+        "lng": -70.6506,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b082b8c8592514910f69.webp"
+        },
+        "images": [
+            {
+                "id": "6786b083b8c8592514910f6d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b083b8c8592514910f6c.webp"
+            },
+            {
+                "id": "6786b085b8c8592514910f70",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b085b8c8592514910f6f.webp"
+            },
+            {
+                "id": "6786b086b8c8592514910f73",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b086b8c8592514910f72.webp"
+            },
+            {
+                "id": "6786b087b8c8592514910f76",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b087b8c8592514910f75.webp"
+            },
+            {
+                "id": "6786b089b8c8592514910f79",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b088b8c8592514910f78.webp"
+            },
+            {
+                "id": "6786b08ab8c8592514910f7c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b08ab8c8592514910f7b.webp"
+            },
+            {
+                "id": "6786b08cb8c8592514910f7f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b08bb8c8592514910f7e.webp"
+            },
+            {
+                "id": "6786b08eb8c8592514910f82",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b08db8c8592514910f81.webp"
+            },
+            {
+                "id": "6786b091b8c8592514910f85",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b090b8c8592514910f84.webp"
+            },
+            {
+                "id": "6786b093b8c8592514910f88",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b092b8c8592514910f87.webp"
+            },
+            {
+                "id": "6786b094b8c8592514910f8b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b094b8c8592514910f8a.webp"
+            },
+            {
+                "id": "6786b095b8c8592514910f8e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b095b8c8592514910f8d.webp"
+            },
+            {
+                "id": "6786b097b8c8592514910f91",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b097b8c8592514910f90.webp"
+            },
+            {
+                "id": "6786b099b8c8592514910f94",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b099b8c8592514910f93.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680106a",
+        "city": "Singapore",
+        "city_ascii": "Singapore",
+        "country": {
+            "id": "65cfbe85781486b8898d9d97",
+            "name": "Singapore"
+        },
+        "iso2": "SG",
+        "capital": "primary",
+        "lat": 1.3,
+        "lng": 103.8,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b09bb8c8592514910f97.webp"
+        },
+        "images": [
+            {
+                "id": "6786b09db8c8592514910f9b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b09db8c8592514910f9a.webp"
+            },
+            {
+                "id": "6786b09eb8c8592514910f9e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b09eb8c8592514910f9d.webp"
+            },
+            {
+                "id": "6786b0a0b8c8592514910fa1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a0b8c8592514910fa0.webp"
+            },
+            {
+                "id": "6786b0a2b8c8592514910fa4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a2b8c8592514910fa3.webp"
+            },
+            {
+                "id": "6786b0a3b8c8592514910fa7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a3b8c8592514910fa6.webp"
+            },
+            {
+                "id": "6786b0a4b8c8592514910faa",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a4b8c8592514910fa9.webp"
+            },
+            {
+                "id": "6786b0a6b8c8592514910fad",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a5b8c8592514910fac.webp"
+            },
+            {
+                "id": "6786b0a7b8c8592514910fb0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a7b8c8592514910faf.webp"
+            },
+            {
+                "id": "6786b0aab8c8592514910fb3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0a9b8c8592514910fb2.webp"
+            },
+            {
+                "id": "6786b0abb8c8592514910fb6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0aab8c8592514910fb5.webp"
+            },
+            {
+                "id": "6786b0acb8c8592514910fb9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0acb8c8592514910fb8.webp"
+            },
+            {
+                "id": "6786b0adb8c8592514910fbc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0adb8c8592514910fbb.webp"
+            },
+            {
+                "id": "6786b0afb8c8592514910fbf",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0afb8c8592514910fbe.webp"
+            },
+            {
+                "id": "6786b0b1b8c8592514910fc2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b0b0b8c8592514910fc1.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680128f",
+        "city": "Hiroshima",
+        "city_ascii": "Hiroshima",
+        "country": {
+            "id": "65cfbe85781486b8898d9b5f",
+            "name": "Japan"
+        },
+        "iso2": "JP",
+        "capital": "admin",
+        "lat": 34.3914,
+        "lng": 132.4519,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b317b8c859251491142c.webp"
+        },
+        "images": [
+            {
+                "id": "6786b319b8c8592514911430",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b319b8c859251491142f.webp"
+            },
+            {
+                "id": "6786b31bb8c8592514911433",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b31ab8c8592514911432.webp"
+            },
+            {
+                "id": "6786b31cb8c8592514911436",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b31bb8c8592514911435.webp"
+            },
+            {
+                "id": "6786b31db8c8592514911439",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b31db8c8592514911438.webp"
+            },
+            {
+                "id": "6786b31fb8c859251491143c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b31eb8c859251491143b.webp"
+            },
+            {
+                "id": "6786b320b8c859251491143f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b320b8c859251491143e.webp"
+            },
+            {
+                "id": "6786b321b8c8592514911442",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b321b8c8592514911441.webp"
+            },
+            {
+                "id": "6786b322b8c8592514911445",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b322b8c8592514911444.webp"
+            },
+            {
+                "id": "6786b323b8c8592514911448",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b323b8c8592514911447.webp"
+            },
+            {
+                "id": "6786b325b8c859251491144b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b324b8c859251491144a.webp"
+            },
+            {
+                "id": "6786b326b8c859251491144e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b326b8c859251491144d.webp"
+            },
+            {
+                "id": "6786b327b8c8592514911451",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b327b8c8592514911450.webp"
+            },
+            {
+                "id": "6786b329b8c8592514911454",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b328b8c8592514911453.webp"
+            },
+            {
+                "id": "6786b32ab8c8592514911457",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b32ab8c8592514911456.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f4276801327",
+        "city": "Rabat",
+        "city_ascii": "Rabat",
+        "country": {
+            "id": "65cfbe85781486b8898d9c57",
+            "name": "Morocco"
+        },
+        "iso2": "MA",
+        "capital": "primary",
+        "lat": 34.0209,
+        "lng": -6.8416,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d3ea3104a90d52bb39.webp"
+        },
+        "images": [
+            {
+                "id": "6647c1d4ea3104a90d52bb3d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d3ea3104a90d52bb3c.webp"
+            },
+            {
+                "id": "6647c1d5ea3104a90d52bb40",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d4ea3104a90d52bb3f.webp"
+            },
+            {
+                "id": "6647c1d6ea3104a90d52bb43",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d6ea3104a90d52bb42.webp"
+            },
+            {
+                "id": "6647c1d7ea3104a90d52bb46",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d6ea3104a90d52bb45.webp"
+            },
+            {
+                "id": "6647c1d7ea3104a90d52bb49",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c1d7ea3104a90d52bb48.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768010ea",
+        "city": "Montréal",
+        "city_ascii": "Montreal",
+        "country": {
+            "id": "65cfbe85781486b8898d99af",
+            "name": "Canada"
+        },
+        "iso2": "CA",
+        "capital": "",
+        "lat": 45.5089,
+        "lng": -73.5617,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afb84e94e4be0d89c3ba.webp"
+        },
+        "images": [
+            {
+                "id": "6786afb94e94e4be0d89c3be",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afb94e94e4be0d89c3bd.webp"
+            },
+            {
+                "id": "6786afbb4e94e4be0d89c3c1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afba4e94e4be0d89c3c0.webp"
+            },
+            {
+                "id": "6786afbc4e94e4be0d89c3c4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afbc4e94e4be0d89c3c3.webp"
+            },
+            {
+                "id": "6786afbe4e94e4be0d89c3c7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afbd4e94e4be0d89c3c6.webp"
+            },
+            {
+                "id": "6786afc04e94e4be0d89c3ca",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afbf4e94e4be0d89c3c9.webp"
+            },
+            {
+                "id": "6786afc14e94e4be0d89c3cd",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc14e94e4be0d89c3cc.webp"
+            },
+            {
+                "id": "6786afc44e94e4be0d89c3d0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc34e94e4be0d89c3cf.webp"
+            },
+            {
+                "id": "6786afc64e94e4be0d89c3d3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc54e94e4be0d89c3d2.webp"
+            },
+            {
+                "id": "6786afc74e94e4be0d89c3d6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc74e94e4be0d89c3d5.webp"
+            },
+            {
+                "id": "6786afc84e94e4be0d89c3d9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc84e94e4be0d89c3d8.webp"
+            },
+            {
+                "id": "6786afca4e94e4be0d89c3dc",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afc94e94e4be0d89c3db.webp"
+            },
+            {
+                "id": "6786afcb4e94e4be0d89c3df",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afcb4e94e4be0d89c3de.webp"
+            },
+            {
+                "id": "6786afcd4e94e4be0d89c3e2",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afcc4e94e4be0d89c3e1.webp"
+            },
+            {
+                "id": "6786afcf4e94e4be0d89c3e5",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786afce4e94e4be0d89c3e4.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680101d",
+        "city": "Bangkok",
+        "city_ascii": "Bangkok",
+        "country": {
+            "id": "65cfbe85781486b8898d9e1f",
+            "name": "Thailand"
+        },
+        "iso2": "TH",
+        "capital": "primary",
+        "lat": 13.7525,
+        "lng": 100.4942,
+        "rate": 4.5,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be68ea3104a90d52b189.webp"
+        },
+        "images": [
+            {
+                "id": "6647be6aea3104a90d52b18d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be69ea3104a90d52b18c.webp"
+            },
+            {
+                "id": "6647be6bea3104a90d52b190",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be6aea3104a90d52b18f.webp"
+            },
+            {
+                "id": "6647be6bea3104a90d52b193",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be6bea3104a90d52b192.webp"
+            },
+            {
+                "id": "6647be6cea3104a90d52b196",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be6cea3104a90d52b195.webp"
+            },
+            {
+                "id": "6647be6dea3104a90d52b199",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647be6dea3104a90d52b198.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768012db",
+        "city": "Oslo",
+        "city_ascii": "Oslo",
+        "country": {
+            "id": "65cfbe85781486b8898d9cbf",
+            "name": "Norway"
+        },
+        "iso2": "NO",
+        "capital": "primary",
+        "lat": 59.9133,
+        "lng": 10.7389,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4e8b8c859251491173c.webp"
+        },
+        "images": [
+            {
+                "id": "6786b4eab8c8592514911740",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4eab8c859251491173f.webp"
+            },
+            {
+                "id": "6786b4ecb8c8592514911743",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4ecb8c8592514911742.webp"
+            },
+            {
+                "id": "6786b4edb8c8592514911746",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4edb8c8592514911745.webp"
+            },
+            {
+                "id": "6786b4eeb8c8592514911749",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4eeb8c8592514911748.webp"
+            },
+            {
+                "id": "6786b4f0b8c859251491174c",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4efb8c859251491174b.webp"
+            },
+            {
+                "id": "6786b4f1b8c859251491174f",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f1b8c859251491174e.webp"
+            },
+            {
+                "id": "6786b4f3b8c8592514911752",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f2b8c8592514911751.webp"
+            },
+            {
+                "id": "6786b4f4b8c8592514911755",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f4b8c8592514911754.webp"
+            },
+            {
+                "id": "6786b4f6b8c8592514911758",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f5b8c8592514911757.webp"
+            },
+            {
+                "id": "6786b4f7b8c859251491175b",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f7b8c859251491175a.webp"
+            },
+            {
+                "id": "6786b4f8b8c859251491175e",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f8b8c859251491175d.webp"
+            },
+            {
+                "id": "6786b4fab8c8592514911761",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4f9b8c8592514911760.webp"
+            },
+            {
+                "id": "6786b4fbb8c8592514911764",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4fbb8c8592514911763.webp"
+            },
+            {
+                "id": "6786b4fcb8c8592514911767",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b4fcb8c8592514911766.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f427680130e",
+        "city": "Kathmandu",
+        "city_ascii": "Kathmandu",
+        "country": {
+            "id": "65cfbe85781486b8898d9c7f",
+            "name": "Nepal"
+        },
+        "iso2": "NP",
+        "capital": "primary",
+        "lat": 27.7172,
+        "lng": 85.324,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b535b8c85925149117c4.webp"
+        },
+        "images": [
+            {
+                "id": "6786b537b8c85925149117c8",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b536b8c85925149117c7.webp"
+            },
+            {
+                "id": "6786b539b8c85925149117cb",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b539b8c85925149117ca.webp"
+            },
+            {
+                "id": "6786b53bb8c85925149117ce",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b53ab8c85925149117cd.webp"
+            },
+            {
+                "id": "6786b53eb8c85925149117d1",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b53db8c85925149117d0.webp"
+            },
+            {
+                "id": "6786b540b8c85925149117d4",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b53fb8c85925149117d3.webp"
+            },
+            {
+                "id": "6786b542b8c85925149117d7",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b541b8c85925149117d6.webp"
+            },
+            {
+                "id": "6786b543b8c85925149117da",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b543b8c85925149117d9.webp"
+            },
+            {
+                "id": "6786b545b8c85925149117dd",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b544b8c85925149117dc.webp"
+            },
+            {
+                "id": "6786b546b8c85925149117e0",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b546b8c85925149117df.webp"
+            },
+            {
+                "id": "6786b549b8c85925149117e3",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b549b8c85925149117e2.webp"
+            },
+            {
+                "id": "6786b54bb8c85925149117e6",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b54bb8c85925149117e5.webp"
+            },
+            {
+                "id": "6786b54db8c85925149117e9",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b54db8c85925149117e8.webp"
+            },
+            {
+                "id": "6786b54eb8c85925149117ec",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b54eb8c85925149117eb.webp"
+            },
+            {
+                "id": "6786b551b8c85925149117ef",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2025-1/14/6786b550b8c85925149117ee.webp"
+            }
+        ]
+    },
+    {
+        "id": "65d20e299ad38f42768011aa",
+        "city": "Tijuana",
+        "city_ascii": "Tijuana",
+        "country": {
+            "id": "65cfbe85781486b8898d9c27",
+            "name": "Mexico"
+        },
+        "iso2": "MX",
+        "capital": "minor",
+        "lat": 32.525,
+        "lng": -117.0333,
+        "rate": null,
+        "description": null,
+        "image": {
+            "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c087ea3104a90d52b753.webp"
+        },
+        "images": [
+            {
+                "id": "6647c088ea3104a90d52b757",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c088ea3104a90d52b756.webp"
+            },
+            {
+                "id": "6647c089ea3104a90d52b75a",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c089ea3104a90d52b759.webp"
+            },
+            {
+                "id": "6647c08aea3104a90d52b75d",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c08aea3104a90d52b75c.webp"
+            },
+            {
+                "id": "6647c08bea3104a90d52b760",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c08bea3104a90d52b75f.webp"
+            },
+            {
+                "id": "6647c08cea3104a90d52b763",
+                "url": "https://trekspot.fra1.digitaloceanspaces.com/cities/2024-5/17/6647c08cea3104a90d52b762.webp"
+            }
+        ]
+    }
+]
